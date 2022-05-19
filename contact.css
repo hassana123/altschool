@@ -10,10 +10,13 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 form{
-    margin-top: 6%;
     text-transform: uppercase;
     color: navy;
-    margin: 1%;
+    margin-top: 5%;
+    width: 100%;
+    margin-left: 1%;
+    height: 90vh;
+    margin-bottom: -5%;
 }
 .form{
     margin: 1.2% 0.5%;
