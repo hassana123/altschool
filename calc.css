@@ -1,0 +1,41 @@
+
+table, th, td {
+    border: 2px solid blue;
+    border-style: double;
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+    
+    
+
+}
+
+table{
+    width: 50%;
+    height: 50vh;
+
+}
+.top{
+    display: grid;
+    background-color: slategray;
+    width: 30%;
+    margin-left: 3%;
+    border-bottom: 3px  solid gray;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
+}
+.grid{
+    
+    display: grid;
+    margin-left: 3%;
+    width: 50%;
+    background: linear-gradient(99deg, lightcoral, gray);
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+main{
+    margin-left: 2%;
+    margin-top: 3%;
+    width: 80%;
+    background-color: transparent;
+
+    
+}

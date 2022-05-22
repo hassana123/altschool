@@ -12,3 +12,40 @@ body{
 .links .active4 {
     color: navy;
 }
+.form input{
+    border: 1px solid palevioletred;
+    width: 20%;
+    height: 5vh;
+    margin: 0.6%;
+    border-radius: 5px;
+    text-transform: uppercase;
+
+}
+
+.btn {
+    margin-left: 2%;
+    text-align: center;
+    padding: 10px;
+    color: navy;
+    margin-left: 8%;
+    margin-top: 3%;
+    border: 2px solid navy ;
+    background-color: white;
+    border-radius: 10px;
+}
+.btn:hover{
+    border: 2px solid navy ;
+    background-color: navy;
+    color: white;
+}
+
+
+form{
+    text-transform: uppercase;
+    color: ;
+    margin-top: 10%;
+    width: 100%;
+    margin-left: 40%;
+    height: 90vh;
+    margin-bottom: -5%;
+}
